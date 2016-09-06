@@ -13,4 +13,4 @@
 - [Mohd Sohail Khan](https://github.com/sohaildani)
 
 ## LICENSE
-All programs are [licensed](LICENSE.md)
+All programs are [licensed](LICENSE)
