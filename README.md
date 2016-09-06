@@ -8,6 +8,6 @@
 - Easy to help
 
 ##Contributors
-- [Jai Prakash](https://github.com/jaiprakash1996)
-- [Chetanya](https://github.com/availchet)
+- [Jai Prakash Sharma](https://github.com/jaiprakash1996)
+- [Chetanya Kandhari](https://github.com/availchet)
 - [Mohd Sohail Khan](https://github.com/sohaildani)
