@@ -11,3 +11,6 @@
 - [Jai Prakash Sharma](https://github.com/jaiprakash1996)
 - [Chetanya Kandhari](https://github.com/availchet)
 - [Mohd Sohail Khan](https://github.com/sohaildani)
+
+## LICENSE
+All programs are [licensed](LICENSE.md)
